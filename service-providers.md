@@ -8,11 +8,9 @@ share-description: "Cambridge Small Scale DAB currently carries these service pr
 | Service Provider |
 | :------ |
 | Angel Vintage |
-| Arena Radio |
-| Atlantis |
+| Boss ATLANTIS |
 | Cambridge 105 Radio |
 | Caroline Flashback |
-| Eruption Radio |
 | GlitterBeam |
 | HCR104fm |
 | News Radio UK |
@@ -21,6 +19,5 @@ share-description: "Cambridge Small Scale DAB currently carries these service pr
 | Radio Sangam |
 | Radio Xtra |
 | Resonance Extra |
-| Release Radio |
 | Style Radio |
 | ZackFM |
