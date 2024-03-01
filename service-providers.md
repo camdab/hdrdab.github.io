@@ -11,9 +11,10 @@ share-description: "Cambridge Small Scale DAB currently carries these service pr
 | Boss ATLANTIS |
 | Cambridge 105 Radio |
 | Caroline Flashback |
-| Eruption Radio |
+| Future Radio |
 | GlitterBeam |
 | HCR104fm |
+| LASER558 |
 | News Radio UK |
 | Radio Caroline |
 | Radio Xtra |
