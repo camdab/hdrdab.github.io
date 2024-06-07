@@ -8,8 +8,8 @@ share-description: "Cambridge Small Scale DAB currently carries these service pr
 | Service Provider |
 | :------ |
 | Angel Vintage |
-| Boss ATLANTIS |
 | Cambridge 105 Radio |
+| CamDAB test|
 | Caroline Flashback |
 | Future Radio |
 | GlitterBeam |
