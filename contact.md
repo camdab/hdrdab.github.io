@@ -4,6 +4,6 @@ title: Contact Us
 subtitle: We'd love to hear from you
 ---
 
-We are Cambridge Digital Radio.
+We are Hereward Digital Radio.
 
-You can email us at <hello@CambridgeDigitalRadio.co.uk>
+You can email us at <hello@HerewardDigitalRadio.co.uk>
