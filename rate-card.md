@@ -2,8 +2,8 @@
 layout: page
 title: Rate Card
 subtitle: "Our charges for carriage on the Multiplex"
-share-title: "Cambridge SSDAB | Rate Card"
-share-description: "Cambridge Small Scale DAB carriage Rate Card"
+share-title: "Peterborough SSDAB | Rate Card"
+share-description: "Peterborough Small Scale DAB carriage Rate Card"
 ---
 
 | BIT RATE | Capacity Units | Cost (per year) | NOTES |
@@ -31,7 +31,7 @@ national commercial licences (analogue or digital) and / or local commercial lic
 The rates above are for the transmission of “broadcast ready” programme streams with the broadcaster providing encoding / text / pictures in a form which can be fed into the multiplexer without further alteration.  Cambridge Digital Radio Limited can provide these and other services and support at additional cost.
 
 Discount Factors:
-Cambridge Digital Radio Limited may, solely at its own discretion and in light of its operational own circumstances, choose to offer individual discounts
+Hereward Digital Radio Limited may, solely at its own discretion and in light of its operational own circumstances, choose to offer individual discounts
 on the above figures for one or more of the following reasons:
 
 - Broadcaster holds an analogue Community Radio Licence
