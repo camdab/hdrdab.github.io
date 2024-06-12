@@ -22,7 +22,7 @@ share-description: "Peterborough Small Scale DAB carriage Rate Card"
 The above rates are quoted inclusive of a 50% discount applicable to organisations with an annual turnover of less than £1 million.
 
 This rate card is currently based on a charge of £75.00 (ex. VAT) per capacity unit per year.
-Figures above exclude VAT, are correct as at November 2020 and are subject to future revision.
+Figures above exclude VAT, are correct as at June 2024 and are subject to future revision.
 
 The above figures are the standard rate charged by Hereward Digital Radio Limited for carriage on the Peterborough DAB multiplex.
 For example, these are the charges that would typically apply to services broadcast by established commercial broadcasters such as those holding
