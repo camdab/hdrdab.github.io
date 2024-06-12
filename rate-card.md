@@ -24,11 +24,11 @@ The above rates are quoted inclusive of a 50% discount applicable to organisatio
 This rate card is currently based on a charge of £75.00 (ex. VAT) per capacity unit per year.
 Figures above exclude VAT, are correct as at November 2020 and are subject to future revision.
 
-The above figures are the standard rate charged by Cambridge Digital Radio Limited for carriage on the Cambridge DAB multiplex.
+The above figures are the standard rate charged by Hereward Digital Radio Limited for carriage on the Peterborough DAB multiplex.
 For example, these are the charges that would typically apply to services broadcast by established commercial broadcasters such as those holding
 national commercial licences (analogue or digital) and / or local commercial licences (analogue or digital).
 
-The rates above are for the transmission of “broadcast ready” programme streams with the broadcaster providing encoding / text / pictures in a form which can be fed into the multiplexer without further alteration.  Cambridge Digital Radio Limited can provide these and other services and support at additional cost.
+The rates above are for the transmission of “broadcast ready” programme streams with the broadcaster providing encoding / text / pictures in a form which can be fed into the multiplexer without further alteration.  Hereward Digital Radio Limited can provide these and other services and support at additional cost.
 
 Discount Factors:
 Hereward Digital Radio Limited may, solely at its own discretion and in light of its operational own circumstances, choose to offer individual discounts
