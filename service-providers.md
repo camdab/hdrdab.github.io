@@ -9,9 +9,10 @@ share-description: "Peterborough Small Scale DAB currently carries these service
 | :------ |
 |Caroline Flashback|
 |LASER558|
-|PCR FM|
 |More Muzic Radio|
+|PCR FM|
 |Radio Caroline|
 |Radio Maria|
+|Resonance Extra|
 |ZACK FM|
 
